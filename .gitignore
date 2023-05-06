@@ -1,0 +1,5 @@
+#Objects
+*.o
+
+#Mac files
+.DS_Store
